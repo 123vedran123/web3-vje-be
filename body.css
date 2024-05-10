@@ -8,3 +8,8 @@ p.citat{
     font-familiy:verdana,arial,sans-sarif;
     font-weight:bold;
 }
+p.drugi{
+    border-color:blue;
+    border-width:thick;
+    border-style:dotted;
+}
