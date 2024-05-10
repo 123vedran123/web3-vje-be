@@ -1,3 +1,10 @@
 body{
     background-color:blueviolet;
 }
+p.citat{
+    background-color:red;
+    text-decoration:underline;
+    text-align:left;
+    font-familiy:verdana,arial,sans-sarif;
+    font-weight:bold;
+}
